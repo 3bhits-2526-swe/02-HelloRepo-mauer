@@ -13,3 +13,8 @@ https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet
 ### Lessons learned 
 - Anlegen GitRepo mit gitignore und readme
 - Basic Workflow git <-> github 
+
+
+     Aenderungen durchgefuehrt
+
+  
